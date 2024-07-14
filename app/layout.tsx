@@ -1,6 +1,8 @@
 import { inter } from '@/app/ui/fonts'
 import '@/app/ui/global.css'
 
+export const dynamic = 'force-dynamic'
+
 export default function RootLayout({
   children,
 }: {
